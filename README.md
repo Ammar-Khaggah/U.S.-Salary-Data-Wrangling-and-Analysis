@@ -1,7 +1,5 @@
 # U.S.-Salary-Data-Wrangling-and-Analysis
 
-# U.S. Salary Data Wrangling
-
 A data engineering project focused on cleaning, transforming, and optimizing a large-scale U.S. salary dataset (140K+ records) for downstream machine learning tasks. The project simulates a real-world ETL pipeline using pandas and NumPy for advanced data preprocessing and preparation.
 
 ---
